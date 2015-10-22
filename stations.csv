@@ -1,0 +1,168 @@
+Region,Site code,Map location number,USGS station number,State code,USGS site name,Latitude (decimal degrees),Longitude (decimal degrees),Method1,Sampling agency,Associated historical data
+Cape May,NCA10-1625/BBC/SJ10,1,390551074455201,NJ,"Great Sound near Avalon, NJ",39.0975,-74.7645,"A,B,C,D,E,F,G,H,I",USGS/EPA Region 2,2EPA NCCA 2006/2010
+Cape May,BBE/SJ13,2,385758074522301,NJ,"Jarvis Sound near Flower Mound, NJ",38.966,-74.873,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2006
+Cape May,BBG/SJ11,3,390235074470201,NJ,"Dung Thorofare near Nummy Island, NJ",39.043,-74.784,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2006
+Cape May,BBH/SJ12,4,390213074484701,NJ,"Turtle Gut near Grassy Sound, NJ",39.037,-74.813,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2006
+Cape May,BBM/SJ9,5,390920074421401,NJ,"Ludlum Thorofare near 47th Place at Sea Isle City, NJ",39.1557,-74.704,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Atlantic City,NCA10-1616/BBA/SJ7,6,391750074363001,NJ,"Great Egg Harbor Bay near Drag Island, NJ",39.2973,-74.6084,"A,B,C,D,E,F,G,H,I",USGS/EPA Region 2,2EPA NCCA 2010
+Atlantic City,NCA10-1623/BBB/SJ6,7,392302074305701,NJ,"Lakes Bay near Pleasantville, NJ",39.3839,-74.5159,"A,B,C,D,E,F,G,H,I",USGS/EPA Region 2,2EPA NCCA 2010
+Atlantic City,BBL/SJ8,8,391637074371201,NJ,"Peck Bay at Beesley’s Point, NJ",39.277,-74.62,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2006
+Great Bay,NCA10-2622/BBD/SJ2,9,393027074201101,NJ,"Great Bay Shooting Thorofare near Fish Island, NJ",39.5076,-74.3365,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2010
+Great Bay,BBF/SJ1,10,393210074231701,NJ,"Great Bay near Graveling Point, NJ",39.536,-74.388,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2006
+Great Bay,BBI/SJ4,11,392700074233101,NJ,"Little Bay near Pearch Cove, NJ",39.45,-74.392,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2006
+Great Bay,BBJ/SJ3,12,392823074231301,NJ,"Main Marsh Thorofare near Hammock Cove at EBFNWR, NJ",39.473,-74.387,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2006
+Great Bay,BBK/SJ5,13,392346074254801,NJ,"Absecon Channel at Mankiller Bay near Atlantic City, NJ",39.396,-74.43,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2006
+Great Bay,NOAA9,14,393215074231001,NJ,"Great Bay near Bogans Cove, NJ",39.5375,-74.3861,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Great Bay,NCA10-1615,15,393253074283001,NJ,Great Bay EPA NCCA site NCA10-1615,39.5481,-74.4751,"A,F,G,H",EPA Region 2,2EPA NCCA 2010
+Barnegat Bay,BB01,16,01408168,NJ,"Barnegat Bay at Mantoloking, NJ",40.04,-74.0522,"A,C,D,E,F,G,H,I",USGS,"Romanok and others, 2014"
+Barnegat Bay,BB02,17,395839074055401,NJ,"Barnegat Bay near Lavallette, NJ",39.9776,-74.0985,"A,B,C,D,E,F,G,H,I",USGS,"Romanok and others, 2014"
+Barnegat Bay,BB03,18,395653074060501,NJ,"Barnegat Bay 700 feet north of Route 37 Bridge, NJ",39.9482,-74.1015,"A,B,C,D,E,F,G,H,I",USGS,"Romanok and others, 2014"
+Barnegat Bay,BB05A,19,395458074063401,NJ,"Barnegat Bay between Ocean Gate & South Seaside Park, NJ",39.9158,-74.1094,"A,B,C,D,E,F,G,H,I",USGS,"Romanok and others, 2014"
+Barnegat Bay,BB06,20,395109074060701,NJ,"Barnegat Bay 1.2 miles south of Cedar Creek mouth, NJ",39.8526,-74.1021,"A,B,C,D,E,F,G,H,I",USGS,"Romanok and others, 2014"
+Barnegat Bay,BB07A,21,394805074092601,NJ,"Barnegat Bay 0.5 miles south of Oyster Creek mouth, NJ",39.8013,-74.1571,"A,B,C,D,E,F,G,H,I",USGS,"Romanok and others, 2014"
+Barnegat Bay,BB09,22,394433074085201,NJ,"Barnegat Bay 2 miles south of Barnegat Inlet, NJ",39.7426,-74.1479,"A,B,C,D,E,F,G,H,I",USGS,"Romanok and others, 2014"
+Barnegat Bay,BB10,23,393939074122301,NJ,"Manakawkin Bay 800 feet south of Route 72 Bridge, NJ",39.661,-74.2065,"A,C,D,E,F,G,H,I",USGS,"Romanok and others, 2014"
+Barnegat Bay,BB11,24,393731074140801,NJ,"Little Egg Harbor 0.8 miles north of Westecunk Creek mouth, NJ",39.6254,-74.2357,"A,B,C,D,E,F,G,H,I",USGS,"Romanok and others, 2014"
+Barnegat Bay,BB13,25,393408074192801,NJ,"Little Egg Harbor near mouth of Tuckerton Creek, NJ",39.569,-74.3246,"A,B,C,D,E,F,G,H,I",USGS,"Romanok and others, 2014"
+Barnegat Bay,MANA1,26,0140804850,NJ,"Watson Creek at mouth at Manasquan, NJ",40.1086,-74.0447,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Barnegat Bay,MANA2,27,01408049,NJ,"Lake Louise at Point Pleasant Beach, NJ",40.097,-74.0398,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Barnegat Bay,NOAA3,28,01408161,NJ,"Metedeconk River near Island Drive near Metedeconk, NJ",40.0549,-74.1038,"A,B,C,D,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Barnegat Bay,NOAA4,29,01408718,NJ,"Toms River near Kilpatrick Point near Toms River, NJ",39.949,-74.1911,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Barnegat Bay,NOAA10,30,393837074144901,NJ,"Little Egg Harbor near Drum Point, NJ",39.6436,-74.2469,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Northeast New Jersey shore,NAV1,31,01407540,NJ,"Navesink River near Oceanic Bridge at Rumson, NJ",40.381,-74.011,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2006
+Northeast New Jersey shore,NAV2,32,01407533,NJ,"Navesink River at Coopers Bridge near Red Bank, NJ",40.3572,-74.0766,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2010
+Northeast New Jersey shore,NOAA1,33,01407539,NJ,"Navesink River below McClees Creek near Fairview, NJ",40.3737,-74.0392,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Northeast New Jersey shore,NOAA2,34,01407605,NJ,"Shrewsbury River at Highlands, NJ",40.399,-73.9811,"A,B,C,D,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Northeast New Jersey shore,SHARK1,35,01407768,NJ,"Musquash Brook at Neptune City, NJ",40.1944,-74.0357,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Northeast New Jersey shore,SHREW1,36,01407598,NJ,"Shrewsbury River near Gunning Island at Sea Bright, NJ",40.3559,-73.9752,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2010
+Northeast New Jersey shore,SHREW2,37,01407588,NJ,"Troutmans Creek at mouth at Branchport, NJ",40.317,-73.995,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2005
+Lower Harbor/Raritan Bay,RB401,38,403424073563301,NY,"Rockaway Inlet near Manhattan Beach, NY",40.5733,-73.9425,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB402,39,403056074062001,NY,Raritan Bay EPA REMAP site RB402,40.5155,-74.1055,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB403,40,402534074004301,NJ,Sandy Hook Bay EPA REMAP site RB403,40.426,-74.012,"A,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB404,41,402851074132001,NY,"Raritan Bay near Tottenville, NY",40.4808,-74.2222,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB405,42,402726074071401,NJ,Raritan Bay EPA REMAP site RB405,40.4572,-74.1206,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB406,43,403240074015901,NY,Lower NY Harbor EPA REMAP site RB406,40.5445,-74.0331,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB407,44,403516074021101,NY,Lower NY Harbor EPA REMAP site RB407,40.5877,-74.0365,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB408,45,402952074104201,NY,Raritan Bay EPA REMAP site RB408,40.4977,-74.1784,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB409,46,403059074050901,NY,Raritan Bay EPA REMAP site RB409,40.5163,-74.0858,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB410,47,402839074032101,NJ,Raritan Bay EPA REMAP site RB410,40.4775,-74.0559,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB411,48,402739074064701,NJ,Raritan Bay EPA REMAP site RB411,40.4608,-74.1131,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB413,49,403508074013801,NY,Lower NY Harbor EPA REMAP site RB413,40.5855,-74.0271,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB414,50,403251074061901,NY,"Lower New York Bay near Oakwood Beach, NY",40.5475,-74.1053,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB416,51,402841074054801,NJ,"Sandy Hook Bay near Keansburg, NJ",40.478,-74.0965,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB450,52,403059074002801,NY,Lower NY Harbor EPA REMAP site RB450,40.5164,-74.0078,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB451,53,403040074073301,NY,Raritan Bay EPA REMAP site RB451,40.5111,-74.1258,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB453,54,402530074021701,NJ,Sandy Hook Bay EPA REMAP site RB453,40.425,-74.0381,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB454,55,402936074093701,NY,Raritan Bay EPA REMAP site RB454,40.4934,-74.1603,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB455,56,402956074031701,NJ,Raritan Bay EPA REMAP site RB455,40.499,-74.0548,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB456,57,402755074100201,NJ,Raritan Bay EPA REMAP site RB456,40.4653,-74.1671,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB457,58,403352074030901,NY,"Lower New York Bay near Swinburne Island, NY",40.5644,-74.0525,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB458,59,403140073584401,NY,"Lower New York Bay near Rockaway Point, NY",40.5278,-73.9789,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB460,60,402845074075101,NJ,Raritan Bay EPA REMAP site RB460,40.4792,-74.1308,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB461,61,403422073544401,NY,Lower NY Harbor EPA REMAP site RB461,40.5728,-73.9121,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB462 ,62,402447073592201,NJ,"Shrewsbury River near Highlands, NJ",40.4132,-73.9894,"A,E,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB463,63,402922074050901,NJ,Raritan Bay EPA REMAP site RB463,40.4894,-74.0859,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB464,64,403139074011301,NY,Lower NY Harbor EPA REMAP site RB464,40.5276,-74.0203,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Lower Harbor/Raritan Bay,RB465,65,402736074093201,NJ,Raritan Bay EPA REMAP site RB465,40.4599,-74.1589,"A,F,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB401,66,403954074082701,NJ,Newark Bay EPA REMAP site NB401,40.665,-74.1408,"A,F,G,H,",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB405,67,01392630,NJ,"Passaic River near Kearny Point, NJ",40.7359,-74.1173,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB406,68,404038074081401,NJ,Newark Bay EPA REMAP site NB406,40.6771,-74.1371,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB409,69,403310074144701,NJ,Arthur Kill EPA REMAP site NB409,40.5529,-74.2464,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB410,70,403333074125801,NY,Arthur Kill EPA REMAP site NB410,40.5592,-74.2161,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB412,71,404009074081601,NJ,Newark Bay EPA REMAP site NB412,40.6692,-74.1377,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB413,72,403836074095301,NY,"Newark Bay near Shooters Island, NY",40.6433,-74.1647,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB414,73,403451074122601,NY,Arthur Kill EPA REMAP site NB414,40.5808,-74.2073,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB416,74,404116074080701,NJ,"Newark Bay at Port Newark, NJ",40.6879,-74.1354,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB418,75,403840074073001,NJ,"Kill van Kull at Bergen Point, NJ",40.644567,-74.1251,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB419,76,403331074140101,NJ,Arthur Kill EPA REMAP site NB419,40.5587,-74.2336,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB423,77,403859074095401,NJ,Newark Bay EPA REMAP site NB423,40.6496,-74.1651,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB424,78,403621074121501,NY,"Arthur Kill near Pralls Island, NY",40.6058,-74.2042,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB425,79,404328074060301,NJ,Newark Bay EPA REMAP site NB425,40.7244,-74.1008,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB426,80,404026074075001,NJ,Newark Bay EPA REMAP site NB426,40.6738,-74.1305,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB427,81,404218074070201,NJ,"Newark Bay near Oak Island Yards, NJ",40.705,-74.1172,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB429,82,403100074151901,NJ,"Arthur Kill near Perth Amboy, NJ",40.5165,-74.2553,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB430,83,403242074145601,NY,Arthur Kill EPA REMAP site NB430,40.545,-74.2488,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB431,84,403938074081301,NJ,"Newark Bay at Bayone, NJ",40.6604,-74.137,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB450,85,01392610,NJ,"Passaic River near Kearny, NJ",40.7402,-74.1409,"E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB452,86,404123074065301,NJ,Newark Bay EPA REMAP site NB452,40.6896,-74.1146,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB453,87,403119074145301,NJ,Arthur Kill EPA REMAP site NB453,40.522,-74.2481,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB454,88,404055074072601,NJ,Newark Bay EPA REMAP site NB454,40.6819,-74.1238,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB455,89,403643074115101,NY,Arthur Kill EPA REMAP site NB455,40.6118,-74.1974,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB457,90,403024074152901,NY,Arthur Kill EPA REMAP site NB457,40.5066,-74.2581,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB459,91,403629074115801,NY,Arthur Kill EPA REMAP site NB459,40.6081,-74.1994,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Newark Bay,NB461,92,403318074142501,NJ,"Arthur Kill near Woodbridge, NJ",40.5549,-74.2404,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,NB407,93,403854074065701,NJ,Kill van Kull EPA REMAP site NB407,40.6483,-74.1159,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH401,94,403941074004501,NY,"Upper New York Bay at Gowanus Bay, NY",40.6614,-74.0125,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH402,95,403659074034101,NY,"The Narrows near Rosebank, NY",40.6164,-74.0614,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH404,96,405155073562101,NY,Upper NY Harbor EPA REMAP site UH404,40.8652,-73.9392,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH408,97,404031074023601,NJ,Upper NY Harbor EPA REMAP site UH408,40.6752,-74.0435,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH409,98,403719074035201,NY,Upper NY Harbor EPA REMAP site UH409,40.622,-74.0645,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH411,99,405101073570201,NY,Upper NY Harbor EPA REMAP site UH411,40.8503,-73.9505,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH412,100,404810073483601,NY,"East River at Whitestone, NY",40.8028,-73.81,"E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH413,101,404622073595301,NY,"Hudson River at West 57th Street at Manhattan, NY",40.7728,-73.9981,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH415,102,403816074035001,NY,Upper NY Harbor EPA REMAP site UH415,40.6377,-74.0639,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH416,103,404240074012401,NY,Upper NY Harbor EPA REMAP site UH416,40.7111,-74.0234,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH451,104,405417073550601,NY,Upper NY Harbor EPA REMAP site UH451,40.9048,-73.9184,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH452,105,403828074031901,NY,Upper NY Harbor EPA REMAP site UH452,40.641,-74.0553,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH455,106,405021073570601,NY,Upper NY Harbor EPA REMAP site UH455,40.8392,-73.9518,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH456,107,404445074004101,NY,Upper NY Harbor EPA REMAP site UH456,40.746,-74.0113,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH457,108,404905073575001,NY,Upper NY Harbor EPA REMAP site UH457,40.8181,-73.9638,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH459,109,405124073565001,NY,Upper NY Harbor EPA REMAP site UH459,40.8567,-73.9473,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH461,110,405135073570401,NJ,"Hudson River at Englewood Cliffs, NJ",40.8598,-73.9512,"E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH463,111,404942073581101,NJ,"Hudson River at Edgewater, NJ",40.8283,-73.9697,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH465 ,112,405335073560401,NJ,Upper NY Harbor EPA REMAP site UH465,40.8931,-73.9344,G,EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH466,113,403945074015701,NY,Upper NY Harbor EPA REMAP site UH466,40.6624,-74.0326,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH468,114,403935074014201,NY,Upper NY Harbor EPA REMAP site UH468,40.6597,-74.0283,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Upper Harbor,UH469,115,405229073554901,NY,Upper NY Harbor EPA REMAP site UH469,40.8747,-73.9304,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB401,116,403419073524501,NY,"Rockaway Inlet near Neponsit, NY",40.5719,-73.8792,"A,E,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB403,117,403759073482301,NY,Jamaica Bay EPA REMAP site JB403,40.633,-73.8064,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB404,118,403628073532501,NY,Jamaica Bay EPA REMAP site JB404,40.6079,-73.8902,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB405,119,403523073513201,NY,Jamaica Bay EPA REMAP site JB405,40.5898,-73.8589,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB406,120,403543073481801,NY,Jamaica Bay EPA REMAP site JB406,40.5952,-73.805,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB407,121,403745073453101,NY,"Jamaica Bay Head of Bay near John F. Kennedy Airport, NY",40.6292,-73.7586,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB409,122,403621073470901,NY,Jamaica Bay EPA REMAP site JB409,40.6057,-73.7857,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB410,123,403738073521201,NY,Jamaica Bay EPA REMAP site JB410,40.6273,-73.87,"F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB415,124,403653073513401,NY,Jamaica Bay EPA REMAP site JB415,40.6148,-73.8594,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB416,125,403804073522101,NY,"Jamaica Bay near Canarsie, NY",40.6344,-73.8725,"A,E,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB417,126,403504073510901,NY,Jamaica Bay EPA REMAP site JB417,40.5846,-73.8526,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB419,127,403430073520901,NY,Jamaica Bay EPA REMAP site JB419,40.5751,-73.8692,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB422,128,403608073523701,NY,Jamaica Bay EPA REMAP site JB422,40.6022,-73.8769,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB423,129,403534073521101,NY,Jamaica Bay EPA REMAP site JB423,40.5927,-73.8698,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB454,130,403560073522601,NY,Jamaica Bay EPA REMAP site JB454,40.5999,-73.8739,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB458,131,403453073515801,NY,Jamaica Bay EPA REMAP site JB458,40.5815,-73.8662,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB459 ,132,403649073513901,NY,Jamaica Bay EPA REMAP site JB459,40.6136,-73.8608,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB464,133,403654073463501,NY,Jamaica Bay EPA REMAP site JB464,40.615,-73.7764,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB466,134,403546073485701,NY,"Jamaica Bay near Broad Channel, NY",40.5961,-73.8158,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB467,135,403631073525201,NY,Jamaica Bay EPA REMAP site JB467,40.6087,-73.8812,"F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB468,136,403505073505201,NY,Jamaica Bay EPA REMAP site JB468,40.5847,-73.8478,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB471,137,403837073503801,NY,Jamaica Bay EPA REMAP site JB471,40.6437,-73.8439,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB472,138,403611073544701,NY,"Jamaica Bay Mill Basin near Flatlands, NY",40.6031,-73.9131,"E,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB474,139,403604073471101,NY,Jamaica Bay EPA REMAP site JB474,40.6011,-73.7865,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB480,140,403457073504801,NY,Jamaica Bay EPA REMAP site JB480,40.5824,-73.8467,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB481,141,403649073520901,NY,Jamaica Bay EPA REMAP site JB481,40.6135,-73.8692,"F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB486,142,403429073524801,NY,Jamaica Bay EPA REMAP site JB486,40.5738,-73.879,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,JB487,143,403805073480901,NY,Jamaica Bay EPA REMAP site JB487,40.6348,-73.8026,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+Jamaica Bay,NOAA5,144,403620073540101,NY,"Jamaica Bay near Mill Basin, NY",40.6053,-73.9003,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Jamaica Bay,NOAA6,145,403408073525901,NY,"Jamaica Bay near Riis Landing, NY",40.5689,-73.883,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Western Bays,BHB01,146,403645073415901,NY,"Brosewere Bay in Hempstead Bay, NY",40.6126,-73.6986,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Western Bays,BMB01,147,403723073351801,NY,"Baldwin Bay near Middle Bay, NY",40.6276,-73.5922,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Western Bays,HHB01,148,403729073401501,NY,"Hewlett Bay in Hempstead Bay, NY",40.6237,-73.6714,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Western Bays,RC01,149,403541073403401,NY,"Reynolds Channel north of Long Beach, NY",40.5943,-73.6772,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Western Bays,RC02,150,403547073353001,NY,"Reynolds Channel near Long Meadow Island, NY",40.5948,-73.5956,"A,B,C,D,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Western Bays,RC03,151,403550073381501,NY,"Reynolds Channel south of Garrett Marsh, NY",40.5977,-73.6373,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Great South Bay,GSB01,152,404357072573701,NY,"Greast South Bay near Howells Creek, NY",40.732,-72.9598,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Great South Bay,GSB02,153,404139073004901,NY,"Great South Bay north of Davis Park, NY",40.6933,-73.0074,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2010
+Great South Bay,GSB03,154,404322073073301,NY,"Great South Bay near Connetquot River, NY",40.7227,-73.126,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Great South Bay,GSB04,155,403908073092401,NY,"Great South Bay at Ocean Beach, NY",40.654,-73.1571,"B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Great South Bay,GSB05,156,404052073141601,NY,"Great South Bay east of Robert Moses Causeway, NY",40.6808,-73.2377,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2010
+Great South Bay,GSB06,157,404031073192901,NY,"Great South Bay south of Carlls River, NY",40.6781,-73.3261,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Great South Bay,GSB07,158,403715073245701,NY,"Great South Bay near West Gilgo Beach, NY",40.622,-73.415,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Great South Bay,MB01,159,402710072494601,NY,"Moriches Bay south of Mastic Beach, NY",40.753,-72.8303,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Great South Bay,MB02,160,404637072462301,NY,"Moriches Bay south of Terrell River, NY",40.7785,-72.7734,"A,B,C,D,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Great South Bay,NOAA7,161,403851073100101,NY,"Great South Bay near Ocean Beach, NY",40.6474,-73.1669,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Great South Bay,NOAA8,162,403841073150401,NY,"Great South Bay near Captree Marina, NY",40.6448,-73.251,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+Great South Bay,SOB01,163,403860073282401,NY,"South Oyster Bay near Massapequa Creek, NY",40.6478,-73.4754,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Peconic Bay,FB01,164,405022072351401,NY,"Flanders Bay near Goose Creek Point, NY",40.9231,-72.5878,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Peconic Bay,FB02,165,405448072343101,NY,"Flanders Bay near Red Cedar Point, NY",40.9134,-72.5752,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Peconic Bay,FB03,166,405531072360701,NY,"Flanders Bay southeast of Reeves Creek, NY",40.9254,-72.6021,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+Peconic Bay,PB01,167,405822072270001,NY,"Peconic Bay east of Robins Island, NY",40.9728,-72.4501,"A,B,C,D,E,F,G,H,I",USGS,2EPA NCCA 2010

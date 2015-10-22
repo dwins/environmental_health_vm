@@ -1,0 +1,31 @@
+CREATE OR REPLACE VIEW geometals
+AS SELECT
+    row_number() over () as qgisid, -- otherwise qgis refuses to render the layer, blah
+    s.site_code,
+    s.station_number,
+    s.site_name,
+    s.geom,
+    m.aluminum,
+    m.antimony,
+    m.arsenic,
+    m.barium,
+    m.beryllium,
+    m.cadmium,
+    m.chromium,
+    m.cobalt,
+    m.copper,
+    m.iron,
+    m.lead,
+    m.manganese,
+    m.mercury,
+    m.molybdenum,
+    m.nickel,
+    m.selenium,
+    m.silver,
+    m.strontium,
+    m.thallium,
+    m.tin,
+    m.titanium,
+    m.vanadium,
+    m.zinc
+FROM stations s, metals m WHERE s.site_code = m.site_code;

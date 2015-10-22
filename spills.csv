@@ -1,0 +1,158 @@
+Site_Code,Map_Location_Number,Source,Equipment_Failure,Human_Error,Other,Storm,Tank_Test_Failure,Unknown,USGS_Station_Number,State_Code,USGS_Site_Name,Latitude,Longitude,Method1,Sampling_Agency,Associated_Historical_Data
+BMB01,147,Commercial/industrial,0,0,0,5,0,0,403723073351801,NY,"Baldwin Bay near Middle Bay, NY",40.6276,-73.5922,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+BMB01,147,"Institutional, educational",0,0,0,2,0,0,403723073351801,NY,"Baldwin Bay near Middle Bay, NY",40.6276,-73.5922,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+BMB01,147,Private dwelling,2,0,5,366,0,0,403723073351801,NY,"Baldwin Bay near Middle Bay, NY",40.6276,-73.5922,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+BMB01,147,Unknown,0,0,0,2,0,0,403723073351801,NY,"Baldwin Bay near Middle Bay, NY",40.6276,-73.5922,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+FB03,166,Transformer,0,0,0,1,0,0,405531072360701,NY,"Flanders Bay southeast of Reeves Creek, NY",40.9254,-72.6021,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+GSB01,152,Private dwelling,0,0,0,1,0,0,404357072573701,NY,"Greast South Bay near Howells Creek, NY",40.732,-72.9598,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+GSB03,154,Commercial/industrial,1,0,0,0,0,0,404322073073301,NY,"Great South Bay near Connetquot River, NY",40.7227,-73.126,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+GSB04,155,Private dwelling,0,0,0,5,0,0,403908073092401,NY,"Great South Bay at Ocean Beach, NY",40.654,-73.1571,"B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+GSB04,155,Commercial/industrial,0,0,0,1,0,0,403908073092401,NY,"Great South Bay at Ocean Beach, NY",40.654,-73.1571,"B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+GSB06,157,Commercial/industrial,1,0,0,3,0,0,404031073192901,NY,"Great South Bay south of Carlls River, NY",40.6781,-73.3261,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+GSB06,157,Private dwelling,1,1,1,140,0,0,404031073192901,NY,"Great South Bay south of Carlls River, NY",40.6781,-73.3261,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+GSB06,157,Transformer,0,0,0,1,0,0,404031073192901,NY,"Great South Bay south of Carlls River, NY",40.6781,-73.3261,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+GSB06,157,Unknown,0,0,1,1,0,0,404031073192901,NY,"Great South Bay south of Carlls River, NY",40.6781,-73.3261,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+GSB07,158,Private dwelling,0,0,0,3,0,0,403715073245701,NY,"Great South Bay near West Gilgo Beach, NY",40.622,-73.415,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+HHB01,148,Commercial/industrial,0,0,0,5,0,0,403729073401501,NY,"Hewlett Bay in Hempstead Bay, NY",40.6237,-73.6714,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+HHB01,148,"Institutional, educational",1,0,0,0,0,0,403729073401501,NY,"Hewlett Bay in Hempstead Bay, NY",40.6237,-73.6714,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+HHB01,148,Private dwelling,0,0,0,74,0,0,403729073401501,NY,"Hewlett Bay in Hempstead Bay, NY",40.6237,-73.6714,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+HHB01,148,Transformer,0,0,0,1,0,0,403729073401501,NY,"Hewlett Bay in Hempstead Bay, NY",40.6237,-73.6714,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+HHB01,148,Unknown,0,0,0,2,0,0,403729073401501,NY,"Hewlett Bay in Hempstead Bay, NY",40.6237,-73.6714,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+JB401,116,"Institutional, educational",0,0,0,1,0,0,403419073524501,NY,"Rockaway Inlet near Neponsit, NY",40.5719,-73.8792,"A,E,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB401,116,Private dwelling,0,0,0,63,0,0,403419073524501,NY,"Rockaway Inlet near Neponsit, NY",40.5719,-73.8792,"A,E,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB403,117,Private dwelling,0,0,0,1,0,0,403759073482301,NY,Jamaica Bay EPA REMAP site JB403,40.633,-73.8064,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB404,118,Private dwelling,0,0,0,1,0,0,403628073532501,NY,Jamaica Bay EPA REMAP site JB404,40.6079,-73.8902,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB405,119,Commercial/industrial,0,0,0,2,0,0,403523073513201,NY,Jamaica Bay EPA REMAP site JB405,40.5898,-73.8589,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB405,119,Private dwelling,0,0,1,272,0,0,403523073513201,NY,Jamaica Bay EPA REMAP site JB405,40.5898,-73.8589,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB405,119,Transformer,0,0,0,1,0,0,403523073513201,NY,Jamaica Bay EPA REMAP site JB405,40.5898,-73.8589,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB406,120,Commercial/industrial,0,0,0,8,0,0,403543073481801,NY,Jamaica Bay EPA REMAP site JB406,40.5952,-73.805,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB406,120,"Institutional, educational",0,0,0,1,0,0,403543073481801,NY,Jamaica Bay EPA REMAP site JB406,40.5952,-73.805,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB406,120,Passenger vehicle,0,0,0,1,0,0,403543073481801,NY,Jamaica Bay EPA REMAP site JB406,40.5952,-73.805,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB406,120,Private dwelling,0,0,0,521,0,0,403543073481801,NY,Jamaica Bay EPA REMAP site JB406,40.5952,-73.805,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB406,120,Railroad car,0,0,0,1,0,0,403543073481801,NY,Jamaica Bay EPA REMAP site JB406,40.5952,-73.805,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB406,120,Transformer,0,0,0,1,0,0,403543073481801,NY,Jamaica Bay EPA REMAP site JB406,40.5952,-73.805,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB407,121,Commercial/industrial,0,0,0,7,0,0,403745073453101,NY,"Jamaica Bay Head of Bay near John F. Kennedy Airport, NY",40.6292,-73.7586,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB407,121,Major facility* ,0,0,0,1,0,0,403745073453101,NY,"Jamaica Bay Head of Bay near John F. Kennedy Airport, NY",40.6292,-73.7586,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB407,121,Private dwelling,0,0,2,21,0,0,403745073453101,NY,"Jamaica Bay Head of Bay near John F. Kennedy Airport, NY",40.6292,-73.7586,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB409,122,Commercial/industr,0,0,0,6,0,0,403621073470901,NY,Jamaica Bay EPA REMAP site JB409,40.6057,-73.7857,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB409,122,Private dwelling,0,0,0,60,0,0,403621073470901,NY,Jamaica Bay EPA REMAP site JB409,40.6057,-73.7857,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB410,123,Transformer,0,0,0,1,0,0,403738073521201,NY,Jamaica Bay EPA REMAP site JB410,40.6273,-73.87,"F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB416,125,Transformer,0,0,0,1,0,0,403804073522101,NY,"Jamaica Bay near Canarsie, NY",40.6344,-73.8725,"A,E,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB417,126,Commercial/industrial,0,0,0,3,0,0,403504073510901,NY,Jamaica Bay EPA REMAP site JB417,40.5846,-73.8526,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB417,126,"Institutional, educational",0,0,0,1,0,0,403504073510901,NY,Jamaica Bay EPA REMAP site JB417,40.5846,-73.8526,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB417,126,Private dwelling,0,0,1,338,0,0,403504073510901,NY,Jamaica Bay EPA REMAP site JB417,40.5846,-73.8526,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB417,126,Transformer,0,0,0,1,0,0,403504073510901,NY,Jamaica Bay EPA REMAP site JB417,40.5846,-73.8526,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB419,127,Commercial/industrial,0,0,0,1,0,0,403430073520901,NY,Jamaica Bay EPA REMAP site JB419,40.5751,-73.8692,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB419,127,"Institutional, educational",0,0,0,1,0,0,403430073520901,NY,Jamaica Bay EPA REMAP site JB419,40.5751,-73.8692,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB419,127,Private dwelling,0,0,1,208,0,0,403430073520901,NY,Jamaica Bay EPA REMAP site JB419,40.5751,-73.8692,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB423,129,Private dwelling,0,0,0,15,0,0,403534073521101,NY,Jamaica Bay EPA REMAP site JB423,40.5927,-73.8698,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB458,131,Commercial/industrial,0,0,0,2,0,0,403453073515801,NY,Jamaica Bay EPA REMAP site JB458,40.5815,-73.8662,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB458,131,"Institutional, educational",0,0,0,1,0,0,403453073515801,NY,Jamaica Bay EPA REMAP site JB458,40.5815,-73.8662,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB458,131,Private dwelling,0,0,1,252,0,0,403453073515801,NY,Jamaica Bay EPA REMAP site JB458,40.5815,-73.8662,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB458,131,Transformer,0,0,0,1,0,0,403453073515801,NY,Jamaica Bay EPA REMAP site JB458,40.5815,-73.8662,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB464,133,Commercial/industrial,0,0,0,1,0,0,403654073463501,NY,Jamaica Bay EPA REMAP site JB464,40.615,-73.7764,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB464,133,Private dwelling,0,0,0,48,0,0,403654073463501,NY,Jamaica Bay EPA REMAP site JB464,40.615,-73.7764,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB466,134,Commercial/industrial,0,0,0,5,0,0,403546073485701,NY,"Jamaica Bay near Broad Channel, NY",40.5961,-73.8158,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB466,134,"Institutional, educational",0,0,0,1,0,0,403546073485701,NY,"Jamaica Bay near Broad Channel, NY",40.5961,-73.8158,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB466,134,Passenger vehicle,0,0,0,1,0,0,403546073485701,NY,"Jamaica Bay near Broad Channel, NY",40.5961,-73.8158,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB466,134,Private dwelling,0,0,0,536,0,0,403546073485701,NY,"Jamaica Bay near Broad Channel, NY",40.5961,-73.8158,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB466,134,Railroad car,0,0,0,1,0,0,403546073485701,NY,"Jamaica Bay near Broad Channel, NY",40.5961,-73.8158,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB466,134,Transformer,0,0,0,1,0,0,403546073485701,NY,"Jamaica Bay near Broad Channel, NY",40.5961,-73.8158,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB467,135,Private dwelling,0,0,0,1,0,0,403631073525201,NY,Jamaica Bay EPA REMAP site JB467,40.6087,-73.8812,"F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB468,136,Commercial/industrial,0,0,0,3,0,0,403505073505201,NY,Jamaica Bay EPA REMAP site JB468,40.5847,-73.8478,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB468,136,"Institutional, educational",0,0,0,1,0,0,403505073505201,NY,Jamaica Bay EPA REMAP site JB468,40.5847,-73.8478,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB468,136,Private dwelling,0,0,1,335,0,0,403505073505201,NY,Jamaica Bay EPA REMAP site JB468,40.5847,-73.8478,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB468,136,Transformer,0,0,0,1,0,0,403505073505201,NY,Jamaica Bay EPA REMAP site JB468,40.5847,-73.8478,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB471,137,Private dwelling,0,0,0,42,0,0,403837073503801,NY,Jamaica Bay EPA REMAP site JB471,40.6437,-73.8439,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB472,138,Commercial/industrial,0,0,1,2,0,0,403611073544701,NY,"Jamaica Bay Mill Basin near Flatlands, NY",40.6031,-73.9131,"E,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB472,138,Private dwelling,0,0,0,28,0,0,403611073544701,NY,"Jamaica Bay Mill Basin near Flatlands, NY",40.6031,-73.9131,"E,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB474,139,Commercial/industrial,0,0,0,6,0,0,403604073471101,NY,Jamaica Bay EPA REMAP site JB474,40.6011,-73.7865,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB474,139,Private dwelling,0,0,0,64,0,0,403604073471101,NY,Jamaica Bay EPA REMAP site JB474,40.6011,-73.7865,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB480,140,Commercial/industrial,0,0,0,3,0,0,403457073504801,NY,Jamaica Bay EPA REMAP site JB480,40.5824,-73.8467,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB480,140,"Institutional, educational",0,0,0,1,0,0,403457073504801,NY,Jamaica Bay EPA REMAP site JB480,40.5824,-73.8467,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB480,140,Private dwelling,0,0,1,338,0,0,403457073504801,NY,Jamaica Bay EPA REMAP site JB480,40.5824,-73.8467,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB480,140,Transformer,0,0,0,1,0,0,403457073504801,NY,Jamaica Bay EPA REMAP site JB480,40.5824,-73.8467,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+JB486,142,"Institutional, educational",0,0,0,1,0,0,403429073524801,NY,Jamaica Bay EPA REMAP site JB486,40.5738,-73.879,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+JB486,142,Private dwelling,0,0,0,72,0,0,403429073524801,NY,Jamaica Bay EPA REMAP site JB486,40.5738,-73.879,"A,F,G,H",EPA Region 2,4EPA REMAP 2008/2013
+MB01,159,Commercial/industrial,0,0,0,2,0,0,402710072494601,NY,"Moriches Bay south of Mastic Beach, NY",40.753,-72.8303,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+MB01,159,Private dwelling,0,0,3,50,0,0,402710072494601,NY,"Moriches Bay south of Mastic Beach, NY",40.753,-72.8303,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+MB02,160,Private dwelling,0,0,2,4,0,0,404637072462301,NY,"Moriches Bay south of Terrell River, NY",40.7785,-72.7734,"A,B,C,D,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+NB407,93,Commercial/industrial,0,0,0,4,0,0,403854074065701,NJ,Kill van Kull EPA REMAP site NB407,40.6483,-74.1159,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB407,93,"Institutional, educational",0,0,0,2,0,0,403854074065701,NJ,Kill van Kull EPA REMAP site NB407,40.6483,-74.1159,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB407,93,Private dwelling,1,0,0,0,0,0,403854074065701,NJ,Kill van Kull EPA REMAP site NB407,40.6483,-74.1159,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB407,93,Transformer,0,0,0,1,0,0,403854074065701,NJ,Kill van Kull EPA REMAP site NB407,40.6483,-74.1159,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB407,93,Unknown,0,0,1,0,0,0,403854074065701,NJ,Kill van Kull EPA REMAP site NB407,40.6483,-74.1159,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB413,72,Commercial/industrial,1,0,1,0,0,0,403836074095301,NY,"Newark Bay near Shooters Island, NY",40.6433,-74.1647,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB413,72,Unknown,0,0,0,0,0,1,403836074095301,NY,"Newark Bay near Shooters Island, NY",40.6433,-74.1647,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB418,75,Commercial/industrial,0,0,0,4,0,0,403840074073001,NJ,"Kill van Kull at Bergen Point, NJ",40.644567,-74.1251,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB418,75,"Institutional, educational",0,0,0,2,0,0,403840074073001,NJ,"Kill van Kull at Bergen Point, NJ",40.644567,-74.1251,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB418,75,Private dwelling,1,0,0,0,0,0,403840074073001,NJ,"Kill van Kull at Bergen Point, NJ",40.644567,-74.1251,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB418,75,Transformer,0,0,0,1,0,0,403840074073001,NJ,"Kill van Kull at Bergen Point, NJ",40.644567,-74.1251,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB418,75,Unknown,0,0,1,0,0,0,403840074073001,NJ,"Kill van Kull at Bergen Point, NJ",40.644567,-74.1251,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB423,77,Unknown,0,0,0,0,0,1,403859074095401,NJ,Newark Bay EPA REMAP site NB423,40.6496,-74.1651,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB424,78,Commercial/industrial,0,0,0,1,0,0,403621074121501,NY,"Arthur Kill near Pralls Island, NY",40.6058,-74.2042,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB429,82,Vessel,0,0,0,3,0,0,403100074151901,NJ,"Arthur Kill near Perth Amboy, NJ",40.5165,-74.2553,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB455,89,Commercial/industrial,0,0,0,1,0,0,403643074115101,NY,Arthur Kill EPA REMAP site NB455,40.6118,-74.1974,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB457,90,Vessel,0,0,0,3,0,0,403024074152901,NY,Arthur Kill EPA REMAP site NB457,40.5066,-74.2581,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NB459,91,Commercial/industrial,0,0,0,1,0,0,403629074115801,NY,Arthur Kill EPA REMAP site NB459,40.6081,-74.1994,"A,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+NOAA5,144,Commercial/industrial,0,0,1,1,0,0,403620073540101,NY,"Jamaica Bay near Mill Basin, NY",40.6053,-73.9003,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+NOAA5,144,Private dwelling,0,0,0,1,0,0,403620073540101,NY,"Jamaica Bay near Mill Basin, NY",40.6053,-73.9003,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+NOAA6,145,"Institutional, educational",0,0,0,1,0,0,403408073525901,NY,"Jamaica Bay near Riis Landing, NY",40.5689,-73.883,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+NOAA6,145,Private dwelling,0,0,0,15,0,0,403408073525901,NY,"Jamaica Bay near Riis Landing, NY",40.5689,-73.883,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+NOAA7,161,Commercial/industrial,0,0,0,1,0,0,403851073100101,NY,"Great South Bay near Ocean Beach, NY",40.6474,-73.1669,"A,B,C,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+RB401,38,Commercial vehicle,1,0,0,0,0,0,403424073563301,NY,"Rockaway Inlet near Manhattan Beach, NY",40.5733,-73.9425,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RB401,38,Commercial/industrial,0,0,0,7,0,0,403424073563301,NY,"Rockaway Inlet near Manhattan Beach, NY",40.5733,-73.9425,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RB401,38,"Institutional, educational",0,0,0,3,0,0,403424073563301,NY,"Rockaway Inlet near Manhattan Beach, NY",40.5733,-73.9425,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RB401,38,Private dwelling,1,0,0,38,0,0,403424073563301,NY,"Rockaway Inlet near Manhattan Beach, NY",40.5733,-73.9425,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RB413,49,Passenger vehicle,0,0,0,1,0,0,403508074013801,NY,Lower NY Harbor EPA REMAP site RB413,40.5855,-74.0271,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RB413,49,Private dwelling,0,0,0,18,0,0,403508074013801,NY,Lower NY Harbor EPA REMAP site RB413,40.5855,-74.0271,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RB414,50,Commercial/industrial,0,0,0,2,0,0,403251074061901,NY,"Lower New York Bay near Oakwood Beach, NY",40.5475,-74.1053,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RB414,50,Major facility*,0,0,0,1,0,0,403251074061901,NY,"Lower New York Bay near Oakwood Beach, NY",40.5475,-74.1053,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RB414,50,Private dwelling,0,0,0,22,0,0,403251074061901,NY,"Lower New York Bay near Oakwood Beach, NY",40.5475,-74.1053,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RB461,61,Commercial vehicle,1,0,0,0,0,0,403422073544401,NY,Lower NY Harbor EPA REMAP site RB461,40.5728,-73.9121,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RB461,61,Private dwelling,0,0,0,4,0,0,403422073544401,NY,Lower NY Harbor EPA REMAP site RB461,40.5728,-73.9121,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+RC01,149,Commercial/industrial,0,0,0,7,0,0,403541073403401,NY,"Reynolds Channel north of Long Beach, NY",40.5943,-73.6772,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+RC01,149,"Institutional, educational",0,0,0,1,0,0,403541073403401,NY,"Reynolds Channel north of Long Beach, NY",40.5943,-73.6772,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+RC01,149,Private dwelling,0,0,1,87,0,0,403541073403401,NY,"Reynolds Channel north of Long Beach, NY",40.5943,-73.6772,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+RC01,149,Unknown,0,0,0,2,0,0,403541073403401,NY,"Reynolds Channel north of Long Beach, NY",40.5943,-73.6772,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+RC02,150,Tank truck,0,0,0,1,0,0,403547073353001,NY,"Reynolds Channel near Long Meadow Island, NY",40.5948,-73.5956,"A,B,C,D,E,F,G,H,I",USGS,"3NOAA, Mussel Watch"
+RC03,151,Commercial/industrial,0,0,0,8,0,0,403550073381501,NY,"Reynolds Channel south of Garrett Marsh, NY",40.5977,-73.6373,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+RC03,151,"Institutional, educational",0,0,0,1,0,0,403550073381501,NY,"Reynolds Channel south of Garrett Marsh, NY",40.5977,-73.6373,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+RC03,151,Private dwelling,1,0,1,144,0,0,403550073381501,NY,"Reynolds Channel south of Garrett Marsh, NY",40.5977,-73.6373,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+RC03,151,Transformer,0,0,0,2,0,0,403550073381501,NY,"Reynolds Channel south of Garrett Marsh, NY",40.5977,-73.6373,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+RC03,151,Unknown,0,0,0,4,0,0,403550073381501,NY,"Reynolds Channel south of Garrett Marsh, NY",40.5977,-73.6373,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+SOB01,163,Commercial/industrial,0,0,0,1,0,0,403860073282401,NY,"South Oyster Bay near Massapequa Creek, NY",40.6478,-73.4754,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+SOB01,163,Private dwelling,1,0,1,127,0,0,403860073282401,NY,"South Oyster Bay near Massapequa Creek, NY",40.6478,-73.4754,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+SOB01,163,Transformer,0,0,0,1,0,0,403860073282401,NY,"South Oyster Bay near Massapequa Creek, NY",40.6478,-73.4754,"A,B,C,D,E,F,G,H,I",USGS,None. Added to inform regional impact
+UH401,94,Commercial/industrial,0,0,2,3,0,0,403941074004501,NY,"Upper New York Bay at Gowanus Bay, NY",40.6614,-74.0125,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH401,94,"Institutional, educational",0,0,0,1,0,0,403941074004501,NY,"Upper New York Bay at Gowanus Bay, NY",40.6614,-74.0125,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH401,94,Private dwelling,0,0,0,6,0,0,403941074004501,NY,"Upper New York Bay at Gowanus Bay, NY",40.6614,-74.0125,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH401,94,Unknown,0,0,0,1,0,0,403941074004501,NY,"Upper New York Bay at Gowanus Bay, NY",40.6614,-74.0125,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH402,95,Commercial vehicle,0,0,0,1,0,0,403659074034101,NY,"The Narrows near Rosebank, NY",40.6164,-74.0614,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH402,95,Commercial/industrial,1,0,0,3,0,0,403659074034101,NY,"The Narrows near Rosebank, NY",40.6164,-74.0614,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH402,95,Transformer,0,0,0,1,0,0,403659074034101,NY,"The Narrows near Rosebank, NY",40.6164,-74.0614,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH409,98,Commercial vehicle,0,0,0,1,0,0,403719074035201,NY,Upper NY Harbor EPA REMAP site UH409,40.622,-74.0645,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH409,98,Commercial/industrial,1,0,0,3,0,0,403719074035201,NY,Upper NY Harbor EPA REMAP site UH409,40.622,-74.0645,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH409,98,Transformer,0,0,0,1,0,0,403719074035201,NY,Upper NY Harbor EPA REMAP site UH409,40.622,-74.0645,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH409,98,Unknown,0,0,0,1,0,0,403719074035201,NY,Upper NY Harbor EPA REMAP site UH409,40.622,-74.0645,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH412,100,Private dwelling,0,0,0,1,0,0,404810073483601,NY,"East River at Whitestone, NY",40.8028,-73.81,"E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH412,100,Transformer,0,0,0,1,0,0,404810073483601,NY,"East River at Whitestone, NY",40.8028,-73.81,"E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH413,101,Commercial/industrial,0,0,1,0,0,0,404622073595301,NY,"Hudson River at West 57th Street at Manhattan, NY",40.7728,-73.9981,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH413,101,Unknown,1,0,0,0,0,0,404622073595301,NY,"Hudson River at West 57th Street at Manhattan, NY",40.7728,-73.9981,"A,E,F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH415,102,Commercial vehicle,0,0,0,1,0,0,403816074035001,NY,Upper NY Harbor EPA REMAP site UH415,40.6377,-74.0639,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH415,102,Commercial/industrial,0,0,0,4,0,0,403816074035001,NY,Upper NY Harbor EPA REMAP site UH415,40.6377,-74.0639,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH415,102,Transformer,0,0,0,3,0,0,403816074035001,NY,Upper NY Harbor EPA REMAP site UH415,40.6377,-74.0639,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH415,102,Unknown,0,0,0,3,0,0,403816074035001,NY,Upper NY Harbor EPA REMAP site UH415,40.6377,-74.0639,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH415,102,Vessel,0,0,0,1,0,0,403816074035001,NY,Upper NY Harbor EPA REMAP site UH415,40.6377,-74.0639,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH416,103,Commercial/industrial,0,0,3,17,0,1,404240074012401,NY,Upper NY Harbor EPA REMAP site UH416,40.7111,-74.0234,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH416,103,"Institutional, educational",0,0,0,2,0,1,404240074012401,NY,Upper NY Harbor EPA REMAP site UH416,40.7111,-74.0234,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH416,103,Transformer,0,0,0,2,0,0,404240074012401,NY,Upper NY Harbor EPA REMAP site UH416,40.7111,-74.0234,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH416,103,Unknown,0,0,0,1,0,1,404240074012401,NY,Upper NY Harbor EPA REMAP site UH416,40.7111,-74.0234,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH451,104,Commercial/industrial,0,0,1,0,0,0,405417073550601,NY,Upper NY Harbor EPA REMAP site UH451,40.9048,-73.9184,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH452,105,Transformer,0,0,0,2,0,0,403828074031901,NY,Upper NY Harbor EPA REMAP site UH452,40.641,-74.0553,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH452,105,Unknown,0,0,0,2,0,0,403828074031901,NY,Upper NY Harbor EPA REMAP site UH452,40.641,-74.0553,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH452,105,Vessel,0,0,0,1,0,0,403828074031901,NY,Upper NY Harbor EPA REMAP site UH452,40.641,-74.0553,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH456,107,Commercial/industrial,0,0,0,3,0,0,404445074004101,NY,Upper NY Harbor EPA REMAP site UH456,40.746,-74.0113,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH456,107,"Institutional, educational",0,0,0,2,0,0,404445074004101,NY,Upper NY Harbor EPA REMAP site UH456,40.746,-74.0113,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH456,107,Private dwelling,0,0,0,1,0,0,404445074004101,NY,Upper NY Harbor EPA REMAP site UH456,40.746,-74.0113,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
+UH456,107,Unknown,1,0,0,0,0,0,404445074004101,NY,Upper NY Harbor EPA REMAP site UH456,40.746,-74.0113,"F,G,H,I",EPA Region 2,4EPA REMAP 2008/2013
